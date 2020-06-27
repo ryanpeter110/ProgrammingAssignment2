@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Cousera Assignment
+
 
 ##This function creates a matrix and gives us the option to store its inverse
 
